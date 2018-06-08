@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.Eye-Clinic" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+<widget id="com.Eye-Clinic" version="1.0.0" ios-CFBundleVersion="20180608" CFBundleShortVersionString="20180608" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     <name>Eye-Clinic</name>
     <description>
         Eye-Clinic PhoneGap app.
