@@ -4,6 +4,7 @@
     <description>
         A blank PhoneGap app.
     </description>
+	<icon src="icon.png" />
     <author email="support@phonegap.com" href="http://phonegap.com">
         PhoneGap Team
     </author>
