@@ -5,7 +5,7 @@
         A blank PhoneGap app.
     </description>
 	<platform name="ios">
-      <icon src="icon.png" width="180" height="180" />
+      <icon src="images/icon.png" />
     </platform>
     <author email="support@phonegap.com" href="http://phonegap.com">
         PhoneGap Team
