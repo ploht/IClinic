@@ -10,5 +10,5 @@
         PhoneGap Team
     </author>
 	<platform name="ios" />	
-	<icon src="icon.png" platform="ios" width="180" height="180" />
+	<icon src="icon.png" width="180" height="180" />
 </widget>
