@@ -1,7 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="com.matthewjamescreative.MJCTestID" version="1.0.0" CFBundleVersion="20180608" CFBundleShortVersionString="20180608" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     <content src="index.html" />
-    <name>com-matthewjamescreative-MJCTestID />
+    <name>
+	  com-matthewjamescreative-MJCTestID 
+	<name />
     <description>
         A blank PhoneGap app.
     </description>
