@@ -9,8 +9,8 @@
     <author email="support@phonegap.com" href="http://phonegap.com">
         PhoneGap Team
     </author>
-	<platform name="ios">      
-	  <icon src="images/logo.png" width="57" height="57" density="mdpi" />
-	<platform />      
-   <access origin="*" />         
+	<platform name="ios" />      
+	  <icon src="images/logo.png" width="57" height="57" density="mdpi" />	
+	<platform />
+    <access origin="*" />         
 </widget>
