@@ -2,7 +2,7 @@
 <widget id="com.matthewjamescreative.MJCTestID" version="1.0.0" CFBundleVersion="20180608" CFBundleShortVersionString="20180608" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     <content src="index.html" />
     <plugin name="phonegap-plugin-push" />
-    <name>com-matthewjamescreative-MJCTestID</name>
+    <name>com-matthewjamescreative-MJCTestID />
     <description>
         A blank PhoneGap app.
     </description>
@@ -13,6 +13,6 @@
 	<access origin="*" />
 	<platform name="ios">      
 	  <icon src="images/logo.png" width="57" height="57" density="mdpi" />
-	<platform name="ios" />      
+	<platform />      
    <access origin="*" />         
 </widget>
