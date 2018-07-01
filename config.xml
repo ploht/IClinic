@@ -10,5 +10,5 @@
         PhoneGap Team
     </author>
 	<platform name="ios" />
-	<icon src="logo.png" />
+	<icon src="icon.png" />
 </widget>
