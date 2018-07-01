@@ -4,13 +4,11 @@
     <description>
         A blank PhoneGap app.
     </description>
-
     <author email="support@phonegap.com" href="http://phonegap.com">
         PhoneGap Team
     </author>
     <content src="index.html" />
-    <access origin="*" />
-	<platform name="ios">
-      <icon src="images/icon.png" />
-    </platform>
+	<access origin="*" />
+    <icon src="images/icon.png" />	
+	<platform name="ios" />      
 </widget>
