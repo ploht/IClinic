@@ -11,6 +11,5 @@
    <content src="index.html" />
    <icon src="images/icon.png" />
    <access origin="*" />
-     <platform name="ios" />      
-   </platform>
+   <platform name="ios" />      
 </widget>
