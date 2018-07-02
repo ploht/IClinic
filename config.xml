@@ -11,5 +11,5 @@
     </author>
 	<platform name="ios" />
     <icon src="res/images/icon.png" platform="ios" width="57" height="57" />
-	<splash src="res/images/Default.png" platform="ios" width="640" height="960" />	
+	<splash src="res/images/Default.png" platform="ios" width="750" height="1334" />	
 </widget>
